@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-b4lyhr.nuansa138.space/sitemap.xml
